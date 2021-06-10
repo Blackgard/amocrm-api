@@ -1,0 +1,17 @@
+# Python components 
+__pycache__
+
+# env file
+.env
+env
+
+# vscode
+.vscode
+
+# Other
+*.log
+*.xlsx
+*.json
+
+# python pip
+poetry.lock
